@@ -45,23 +45,6 @@ Designed with **clean UI, scalable architecture, and real-time MongoDB integrati
 
 ---
 
-## 📂 Folder Structure  
-
-ritika-kamboj-assignment/
-│
-├── backend/
-│ ├── src/
-│ │ ├── routes/ # API Routes
-│ │ ├── models/ # MongoDB Schemas
-│ │ └── main.ts # Server Entry Point
-│
-├── frontend/
-│ ├── src/components/ # React Components
-│ ├── src/services/ # API Integration
-│ └── App.js
-
----
-
 📜 License
 This project is developed for educational and demonstration purposes only.
 
