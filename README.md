@@ -45,7 +45,7 @@ Designed with **clean UI, scalable architecture, and real-time MongoDB integrati
 
 ---
 
-📜 License
+📜 License:
 This project is developed for educational and demonstration purposes only.
 
 ---
