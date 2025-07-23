@@ -1,0 +1,6 @@
+
+{
+  "123456789012": { "name": "Ritika", "income": 45000, "address": "Karnal, Haryana" },
+  "987654321098": { "name": "Amit", "income": 80000, "address": "Delhi" },
+  "111122223333": { "name": "Preeti", "income": 20000, "address": "Punjab" }
+}
