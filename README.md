@@ -46,8 +46,6 @@ Designed with **clean UI, scalable architecture, and real-time MongoDB integrati
 ---
 
 
----
-
 ## ▶ Quick Start  
 
 # Clone Repository
@@ -63,6 +61,11 @@ npx ts-node src/main.ts
 cd frontend
 npm install
 npm start
+
+---
+
+🌐 Deployment Note:
+This project currently uses local MongoDB and backend for data storage and API handling.
 
 ---
 
