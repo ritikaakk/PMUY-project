@@ -64,6 +64,10 @@ npm start
 
 ---
 
+## 🌐 Live Demo  
+[Click here to view the deployed app on Netlify](https://incomparable-khapse-2f03a1.netlify.app)
+
+
 🌐 Deployment Note:
 This project currently uses local MongoDB and backend for data storage and API handling.
 
