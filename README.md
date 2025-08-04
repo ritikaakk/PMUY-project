@@ -45,9 +45,6 @@ Designed with **clean UI, scalable architecture, and real-time MongoDB integrati
 
 ---
 
-
-## ▶ Quick Start  
-
 # Clone Repository
 git clone https://github.com/ritikaakk/ritika-kamboj-assignment.git
 cd ritika-kamboj-assignment
